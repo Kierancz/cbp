@@ -5,7 +5,7 @@ h1,h2,h3,h4,h5,h6,p,span {font-family: 'Open Sans';text-transform:uppercase}
 .formbutton:hover{background-color:transparent}
 .formbutton:focus{outline:0}
 input{-webkit-appearance: textfield; background-color:white;border-image-source: initial;border-image-slice: initial;border-image-width: initial;border-image-outset: initial;border-image-repeat: initial;-webkit-rtl-ordering: logical;-webkit-user-select: text;cursor: auto;font: 14px Open Sans,sans-serif;font-weight: 400;font-style: normal;line-height: 23px;color: #262626;text-align:center;}
-.newbox:after{content: '';position: absolute;top: 0px;left: 0px;background: url(ribbon-new.png);width: 53px;height: 54px;pointer-events: none;}
+.newbox:after{content: '';position: absolute;top: 0px;left: 0px;background: url(../img/ribbon-new.png);width: 53px;height: 54px;pointer-events: none;}
 
 .form-input {
   text-align: center;
