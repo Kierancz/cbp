@@ -29,13 +29,13 @@ input{-webkit-appearance: textfield; background-color:white;border-image-source:
 select#flip-1.flip-1 {
   width: 4em;
 }
-a.cbp-l-caption-buttonLeft{margin-top:-3em;}
-a.cbp-l-caption-buttonRight{margin-top:-3em;}
+a.cbp-l-caption-buttonLeft{margin-top:-5em;}
+a.cbp-l-caption-buttonRight{margin-top:-5em;}
 
 h2.caption-header {
-  margin-top:30px;
-  color:#FFF;
-  text-align:center;     
+  margin-top: 30px;
+  color: #FFF !important;
+  text-align: center;     
   font-size: 1.5vw !important;
 }
 
