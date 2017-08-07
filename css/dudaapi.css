@@ -18,6 +18,17 @@ input{-webkit-appearance: textfield; background-color:white;border-image-source:
   padding-top: 170px;
 }
 
+@media (min-width: 992px) {
+  div.modaal-container {
+    width: 50%;
+  }
+}
+@media (min-width:768px) and (max-width:991px){
+  div.modaal-container {
+    width: 70%;
+  }
+}
+
 .modaal-content-container {
   text-align: center;
 }
@@ -243,7 +254,7 @@ h2.caption-header {
 .cbp-l-caption-buttonLeft, .cbp-l-caption-buttonRight {
   /* @editable properties */
   background-color: #3288C4;
-  color: #FFFFFF;
+  color: #FFFFFF !important;
   display: inline-block;
   font: 400 12px/30px "Open Sans", sans-serif;
   min-width: 90px;
