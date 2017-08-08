@@ -264,6 +264,7 @@ h2.caption-header {
 
 .cbp-l-caption-buttonLeft:hover, .cbp-l-caption-buttonRight:hover {
   /* @editable properties */
+  color: #000;
   opacity: 0.9; }
 
 /*  END - caption miscellaneous style */
